@@ -62,7 +62,7 @@ Operational limits: predictions are class labels without calibrated confidence. 
 
 ## 7. Research contribution and next study
 
-The contribution is a transparent and auditable implementation of established methods, including duplicate-aware evaluation and class-specific error analysis. It demonstrates research preparation rather than methodological novelty. The code and documentation were prepared with AI assistance; the applicant should understand, verify and extend them, and follow any institutional disclosure policy.
+The contribution is a transparent and auditable implementation of established methods, including duplicate-aware evaluation and class-specific error analysis. It demonstrates research preparation rather than methodological novelty.
 
 Next, compare ordinal score models using training-only nested cross-validation; freeze the selected design before external testing. Obtain independent production batches with collection dates and repeated sensory labels. For a spoilage or contamination extension, first acquire appropriate laboratory-confirmed endpoints and sample identifiers, then use batch/time holdouts. Do not relabel sensory-quality scores as safety outcomes.
 

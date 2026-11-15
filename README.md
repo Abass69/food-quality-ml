@@ -50,7 +50,7 @@ Maintained by Abass Ajagbe.
 - GitHub: https://github.com/Abass69/food-quality-ml
 - LinkedIn: https://www.linkedin.com/in/abass-ajagbe-70a8801b8/
 
-Independent research-preparation prototype developed with AI assistance. The included results are benchmark results; real-world laboratory validation remains outstanding. See the technical report for methodology and limitations.
+Independent research-preparation prototype. The included results are benchmark results; real-world laboratory validation remains outstanding. See the technical report for methodology and limitations.
 
 ### Attribution and license
 Code: MIT (`LICENSE`). Dataset: CC BY 4.0, separate from the code license. Cite Cortez, P., Cerdeira, A., Almeida, F., Matos, T., & Reis, J. (2009). *Wine Quality*. UCI Machine Learning Repository. https://doi.org/10.24432/C56S3T

@@ -1,0 +1,4 @@
+fixed acidity,volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,pH,sulphates,alcohol,wine_type
+7.8,0.76,0.04,2.3,0.092,15.0,54.0,0.997,3.26,0.65,9.8,0
+8.9,0.62,0.19,3.9,0.17,51.0,148.0,0.9986,3.17,0.93,9.2,0
+8.9,0.22,0.48,1.8,0.077,29.0,60.0,0.9968,3.39,0.53,9.4,0

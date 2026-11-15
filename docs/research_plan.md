@@ -1,9 +1,9 @@
 # Research fit and next experiments
 
 ## Credible positioning
-This project demonstrates experimental design, data provenance, duplicate handling, baseline comparison, model selection without test tuning, uncertainty estimation, error analysis and reproducible Python engineering. It is an established-dataset benchmark, not a novel food safety detector. The AI-assisted code and report should be understood, checked and extended by the applicant before being discussed in applications or interviews.
+This project demonstrates experimental design, data provenance, duplicate handling, baseline comparison, model selection without test tuning, uncertainty estimation, error analysis and reproducible Python engineering. It is an established-dataset benchmark, not a novel food safety detector. The code and report should be understood, checked and extended by the applicant before being discussed in applications or interviews.
 
-A defensible project description: "Built and evaluated an AI-assisted, reproducible pipeline for sensory-quality grading from food chemistry measurements; compared four models using grouped cross-validation and documented minority-class errors and limits to generalisation."
+A defensible project description: "Built and evaluated a reproducible pipeline for sensory-quality grading from food chemistry measurements; compared four models using grouped cross-validation and documented minority-class errors and limits to generalisation."
 
 ## Focused next research question
 Does an ordinal model improve higher-grade recall and reduce two-band errors without sacrificing macro-F1 on independently held-out production batches?
